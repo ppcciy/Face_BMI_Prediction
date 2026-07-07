@@ -252,8 +252,7 @@ http://localhost:3000
 
 ## 效果展示
 <img width="2560" height="1528" alt="36f708ef41f6e6e9b6472afd57a3ca18" src="https://github.com/user-attachments/assets/6649d410-9792-4d98-b251-3c20e4bb8ebf" />
-![image-20260627165138618](C:\Users\王婧怡\AppData\Roaming\Typora\typora-user-images\image-20260627165138618.png)
-![image-20260627165825101](C:\Users\王婧怡\AppData\Roaming\Typora\typora-user-images\image-20260627165825101.png)
+
 ---
 
 ## 后续优化方向
