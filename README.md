@@ -17,7 +17,6 @@ Face BMI Prediction 是一个基于深度学习的人脸 BMI 预测系统。
 项目利用 **MTCNN** 进行人脸检测，结合 **EfficientNet** 网络预测人体 BMI，并采用 **Flask + ZeroMQ + Vue3** 构建完整的前后端推理系统，实现图片上传、模型推理及 BMI 可视化展示。
 
 整个项目包含：
-
 * 数据预处理
 * 模型训练
 * 模型测试
