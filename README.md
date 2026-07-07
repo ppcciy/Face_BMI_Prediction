@@ -270,8 +270,3 @@ http://localhost:3000
 ## License
 
 MIT License
-
-
-
-1. 新建 `docs/` 文件夹，把训练曲线、前端界面、预测结果等图片都放进去，README 中统一引用 `docs/*.png`，不要使用本地 `C:\Users\...` 路径。
-2. 将模型权重（如 `EfficientNetB3_model.pth`）加入 `.gitignore`，避免上传几百 MB 的文件；在 README 中说明下载方式或自行训练即可。这样仓库更轻量，也符合 GitHub 的最佳实践。
